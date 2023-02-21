@@ -1,5 +1,5 @@
 # Analyze-International-Debt-Statistics
-	Objective is to analyze international debt data collected by The World Bank.
+Objective is to analyze international debt data collected by The World Bank.
 ## Roles & Responsibilities -
 Proper Understanding of International Debt Statistics data.
 Used MySQL & Python connectivity to analyze this project.
